@@ -1,19 +1,18 @@
 ---
 permalink: /
-title: "Diego Ascarza Mendoza"
+title: "About"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
 I am an Assistant Professor of Economics at the Graduate School of Government and Public Transformation, Tecnológico de Monterrey. I received my Ph.D. in Economics from the University of Minnesota in 2024.
 
 My research interests include macroeconomics, household finance, and health economics. I am particularly interested in how economic policy and individual behavior interact to shape aggregate outcomes.
 
 ---
 
-**Research Interests**
+### Research Interests
 
 - Macroeconomics
 - Household Finance
@@ -21,7 +20,7 @@ My research interests include macroeconomics, household finance, and health econ
 
 ---
 
-**Contact**
+### Contact
 
 <table>
   <tr>
@@ -38,20 +37,19 @@ My research interests include macroeconomics, household finance, and health econ
   </tr>
   <tr>
     <td><strong>LinkedIn</strong></td>
-    <td><a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></td>
+    <td><a href="https://www.linkedin.com/in/diegoascarza/">linkedin.com/in/diegoascarza</a></td>
   </tr>
 </table>
 
 ---
 
-**Curriculum Vitae**
+### Curriculum Vitae
 
 A detailed overview of my academic background, research, and experience is available in my CV:
 
 <div align="center">
-
-<a href="/files/CV-July2025.pdf" download style="display:inline-block; padding:10px 28px; background:#007acc; color:#fff; border-radius:6px; text-decoration:none; font-size:1.1em; font-weight:bold;">
-  Download CV (PDF)
-</a>
-
+  <a href="/files/CV-July2025.pdf" download
+     style="display:inline-block; padding:6px 16px; background:transparent; color:#007acc; border-radius:4px; text-decoration:none; font-size:0.95em; border:1px solid #007acc; transition:background 0.2s; font-weight:500;">
+    Download CV (PDF)
+  </a>
 </div>
