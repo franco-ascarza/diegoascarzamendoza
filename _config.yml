@@ -13,8 +13,8 @@ title                    : "Diego Ascarza"
 title_separator          : "-"
 name                     : &name "Diego Ascarza"
 description              : &description "personal description"
-baseurl                  : "/diegoascarzamendoza"  # your repo name, with a leading slash
-url                      : "https://franco-ascarza.github.io"
+baseurl                  : ""  # your repo name, with a leading slash
+url                      : "https://diegoascarza.com"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
