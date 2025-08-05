@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+remote_theme             : academicpages/academicpages.github.io
 title                    : "Diego Ascarza"
 title_separator          : "-"
 name                     : &name "Diego Ascarza"
