@@ -1,0 +1,8 @@
+.masthead__menu-item > a.active {
+  font-weight: bold;
+}
+
+.coauthor {
+  font-size: 0.8em; /* or try 0.85em or 80% for smaller */
+  color: #555;      /* optional: makes it a bit lighter */
+}

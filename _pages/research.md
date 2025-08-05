@@ -10,19 +10,19 @@ author_profile: true
 ### Working Papers
 
 #### Health Dynamics and Annuitization Decisions: The Case of Social Security
-*with Alex Carrasco* [ [Draft](/files/1-JMP-DAM-current.pdf) ]  
+<span class="coauthor">*with Alex Carrasco*</span> [ [Draft](/files/1-JMP-DAM-current.pdf) ]  
 <small>Presented: Grinnell College, Bank of Mexico, Tec de Monterrey, Universidad del Pacifico, ITAM alumni conference</small>
 
 ---
 
 #### On the Welfare Gains of Housing Affordability
-*with Tomas Rose, James A. Schmitz, Jr.* [ [Draft](/files/2-AscarzaRoseSchmitz-current.pdf) ]  
+<span class="coauthor">*with Tomas Rose, James A. Schmitz, Jr.*</span> [ [Draft](/files/2-AscarzaRoseSchmitz-current.pdf) ]  
 <small>Presented: Midwest Macroeconomics Meetings (05/19/2023)</small>
 
 ---
 
-#### On the Dynamics of Mental Health
-*with Christian Velasquez* [ [Draft](/files/3-DraftMay2025.pdf) ]  
+#### On the Dynamics of Mental Health (Reject and Resubmit - Review of Economic Dynamics)
+<span class="coauthor">*with Christian Velasquez*</span> [ [Draft](/files/3-DraftMay2025.pdf) ]  
 <small>Presented: Tec de Monterrey (11/15/2024), University of Houston (11/20/2024)</small>
 
 ---
@@ -32,7 +32,7 @@ author_profile: true
 #### Optimal Retirement Financing in the Presence of Annuity Markets
 
 #### Inequality and Opioids
-*with Joseph Pedtke*
+<span class="coauthor">*with Joseph Pedtke*</span>
 
 #### Optimal Design of Pension and Health Systems
-*with Alex Carrasco*
+<span class="coauthor">*with Alex Carrasco*</span>
