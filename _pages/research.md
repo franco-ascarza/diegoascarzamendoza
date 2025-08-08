@@ -36,3 +36,9 @@ author_profile: true
 
 #### Optimal Design of Pension and Health Systems
 <span class="coauthor">*with Alex Carrasco*</span>
+
+#### The anatomy of the evolution of mental health over the life-cycle
+<span class="coauthor">*with Christian Velasquez*</span>
+
+#### Is Trade War Also A Gender War? Gender-specific Income Shocks and the Dynamics of Violence Against Women
+<span class="coauthor">*with Qinyou Hu and Xiongfei Li*</span>
