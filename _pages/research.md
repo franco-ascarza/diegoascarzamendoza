@@ -10,7 +10,7 @@ author_profile: true
 ### Working Papers
 
 #### Health Dynamics and Annuitization Decisions: The Case of Social Security
-<span class="coauthor">*with Alex Carrasco*</span> [ [Draft](/files/1-JMP-DAM-current.pdf) ]  
+<span class="coauthor">*with Alex Carrasco*</span> [ [Draft](/files/JMP-august2025.pdf) ]  
 <small>Presented: Grinnell College, Bank of Mexico, Tec de Monterrey, Universidad del Pacifico, ITAM alumni conference</small>
 
 ---
