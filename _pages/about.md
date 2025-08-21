@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor of Economics at the Graduate School of Government and Public Transformation, Tecnológico de Monterrey. I received my Ph.D. in Economics from the University of Minnesota in 2024.
+I am an Research Professor of Economics at the Graduate School of Government and Public Transformation, Tecnológico de Monterrey. I received my Ph.D. in Economics from the University of Minnesota in 2024.
 
 My research interests include macroeconomics, household finance, and health economics. I am particularly interested in how economic policy and individual behavior interact to shape aggregate outcomes.
 
