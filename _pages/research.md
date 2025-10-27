@@ -23,7 +23,7 @@ author_profile: true
 
 #### On the Dynamics of Mental Health (Reject and Resubmit - Review of Economic Dynamics)
 <span class="coauthor">*with Christian Velasquez*</span> [ [Draft](/files/JMP-Mental.pdf) ]  
-<small>Presented: Tec de Monterrey (11/15/2024), University of Houston (11/20/2024)</small>
+<small>Presented: Tec de Monterrey (11/15/2024), University of Houston (11/20/2024), Essen Health Conference (05/29/2025)</small>
 
 ---
 
