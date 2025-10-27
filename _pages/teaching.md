@@ -24,13 +24,13 @@ author_profile: true
 
 #### Macroeconomics for Public Policy (MPP program)
 <span class="coauthor">Monterrey Institute of Technology - Spring 2025</span>  
-<span class="download-link">[Download Syllabus](/files/MacroMPP.pdf)</span>
+<span class="download-link">[Download Syllabus (in Spanish)](/files/MacroMPP.pdf)</span>
 
 ---
 
 #### Microeconomics for Public Administration (Executive MPA Program)
-<span class="coauthor">Monterrey Institute of Technology - Spring 2025</span>
-<span class="download-link">[Download Syllabus](/files/MicroMPA.pdf)</span>
+<span class="coauthor">Monterrey Institute of Technology - Spring 2025</span>  
+<span class="download-link">[Download Syllabus (in Spanish)](/files/MicroMPA.pdf)</span>
 
 ---
 
