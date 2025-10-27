@@ -9,6 +9,31 @@ author_profile: true
 
 ### Instructor
 
+#### Reinforcement Learning (Master’s in Data Science Program)
+<span class="coauthor">Monterrey Institute of Technology - Fall 2025</span>  
+- <span class="download-link">[Download Syllabus (in Spanish)](/files/RL-Syllabus.pdf)</span>
+- <span class="download-link">[Introduction](/files/Introduction-RL.pdf)</span>
+- <span class="download-link">[Multi-Armed Bandit Problem](/files/BanditProblem-RL.pdf)</span>
+- <span class="download-link">[Markov Decision Problems](/files/MDP-RL.pdf)</span>
+- <span class="download-link">[Dynamic Programming](/files/DP-RL.pdf)</span>
+- <span class="download-link">[Neoclassical Growth Model](/files/NeoclassicGrowthModel-RL.pdf)</span>
+- <span class="download-link">[Montecarlo Methods](/files/Montecarlo-RL.pdf)</span>
+- <span class="download-link">[Temporal Difference Learning](/files/TemporalDifference-RL.pdf)</span>
+
+---
+
+#### Macroeconomics for Public Policy (MPP program)
+<span class="coauthor">Monterrey Institute of Technology - Spring 2025</span>  
+<span class="download-link">[Download Syllabus](/files/MacroMPP.pdf)</span>
+
+---
+
+#### Microeconomics for Public Administration (Executive MPA Program)
+<span class="coauthor">Monterrey Institute of Technology - Spring 2025</span>
+<span class="download-link">[Download Syllabus](/files/MicroMPA.pdf)</span>
+
+---
+
 #### Labor Economics (ECON 4531)
 <span class="coauthor">University of Minnesota — Fall 2022, Spring 2023, Fall 2023</span>  
 <span class="download-link">[Download Syllabus](/files/1-SyllabusECON4531-Fall2023.pdf)</span>
@@ -47,5 +72,5 @@ author_profile: true
 
 - <span class="coauthor">Principles of Microeconomics</span>, University of Minnesota (Fall 2019)
 - <span class="coauthor">Principles of Macroeconomics</span>, University of Minnesota (Spring 2020)
-- <span class="coauthor">International Economics II</span>, Instituto Tecnologico Autonomo de Mexico (Fall 2017)
-- <span class="coauthor">Applied Macroeconometrics</span>, Instituto Tecnologico Autonomo de Mexico (Fall 2017)
+- <span class="coauthor">International Economics II</span>, ITAM (Fall 2017)
+- <span class="coauthor">Applied Macroeconometrics</span>, ITAM (Fall 2017)
