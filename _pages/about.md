@@ -48,7 +48,7 @@ My research interests include macroeconomics, household finance, and health econ
 A detailed overview of my academic background, research, and experience is available in my CV:
 
 <div align="center">
-  <a href="/files/CV-Oct2025.pdf"
+  <a href="/files/CV-Nov2025.pdf"
      target="_blank" rel="noopener"
      style="display:inline-block; padding:6px 16px; background:transparent; color:#007acc; border-radius:4px; text-decoration:none; font-size:0.95em; border:1px solid #007acc; transition:background 0.2s; font-weight:500;">
     View CV (PDF)
